@@ -9,6 +9,6 @@ entries:
     name: ue-umbu
     type: application
     urls:
-    - https://github.com/seltonlucas/umbu-charts.git/ue-umbu-0.1.0.tgz
+    - https://seltonlucas.github.io/umbu-charts/ue-umbu-0.1.0.tgz
     version: 0.1.0
 generated: "2023-03-06T20:34:37.213807532-03:00"
