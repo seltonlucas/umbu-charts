@@ -3,12 +3,12 @@ entries:
   ue-umbu:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-08T15:30:56.338259955-03:00"
+    created: "2023-03-08T15:45:41.436506895-03:00"
     description: A Helm chart for Kubernetes
-    digest: aeb40e86d369d066f4a80b4b9670e5a946ebedc7fb4f6bc5b84f5860f85b1f7b
+    digest: 7062147e6b9c13f90fb78c438281fb7f4f8b900af581bc4f2dfb65ad8fe21685
     name: ue-umbu
     type: application
     urls:
     - https://seltonlucas.github.io/umbu-charts/ue-umbu-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-08T15:30:56.337509769-03:00"
+generated: "2023-03-08T15:45:41.433940881-03:00"
